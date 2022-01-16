@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "bintest1": {
+      "commandName": "Project"
+    }
+  }
+}
